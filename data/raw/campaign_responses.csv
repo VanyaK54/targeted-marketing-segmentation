@@ -1,0 +1,6 @@
+customer_id,campaign_id,response,channel
+1001,101,1,Email
+1002,101,0,Email
+1003,102,1,SMS
+1004,101,0,Email
+1005,103,1,App

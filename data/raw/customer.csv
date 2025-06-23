@@ -1,0 +1,6 @@
+customer_id,age,gender,region,income
+1001,25,Female,Ontario,42000
+1002,38,Male,Quebec,59000
+1003,31,Other,British Columbia,48000
+1004,45,Female,Alberta,72000
+1005,29,Male,Ontario,51000

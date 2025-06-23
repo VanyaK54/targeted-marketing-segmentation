@@ -1,0 +1,19 @@
+Targeted Marketing Using Customer Segmentation – Project Summary
+
+📌 Objective:
+Use clustering to segment retail customers for personalized campaigns (email, ads).
+
+📊 Methodology:
+- Cleaned raw customer and transaction data
+- Engineered features: average spend, total transactions, encoded demographics
+- Performed KMeans clustering with PCA (n=4)
+- Generated segment-wise campaign strategies
+
+🎯 Insights:
+- Segment 0: High spenders with low response rates – premium offerings
+- Segment 1: Bargain hunters – flash deals & coupons
+- Segment 2: New/inactive users – welcome campaigns
+- Segment 3: Loyalty members – retention campaigns
+
+📈 Power BI Dashboard:
+Visualizes KPIs, responses, and trends by segment
